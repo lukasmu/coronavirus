@@ -8,7 +8,7 @@ You can directly launch the scripts with Binder.
 
 Launch the **comparison**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasmu/coronavirus/master?filepath=coronavirus_comparison.ipynb)
 
-Launch the **forecast**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasmu/coronavirus/master?filepath=coronavirus_forcecast.ipynb)
+Launch the **forecast**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasmu/coronavirus/master?filepath=coronavirus_forecast.ipynb)
 
 ## Background
 
