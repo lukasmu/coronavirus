@@ -6,9 +6,9 @@ This repository contains a few Jupyter notebooks for investigating the COVID-19 
 
 You can directly launch the scripts with Binder.
 
-Launch the **comparison**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasmu/coronavirus/master?filepath=coronavirus_comparison.ipynb)
+Launch the **comparison**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fil-hub/coronavirus/master?filepath=coronavirus_comparison.ipynb)
 
-Launch the **forecast**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lukasmu/coronavirus/master?filepath=coronavirus_forecast.ipynb)
+Launch the **forecast**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fil-hub/coronavirus/master?filepath=coronavirus_forecast.ipynb)
 
 ## Background
 
